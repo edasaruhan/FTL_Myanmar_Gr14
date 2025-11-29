@@ -2,7 +2,7 @@
 **Group 14 — SDG Project**
 - **Khin Yadanar Hlaing**
 - **Myo Myat Htun**
-- **Aye Nandar Bo**
+
 ---
 
 ## 🌍 Project Idea
