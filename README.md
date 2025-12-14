@@ -48,12 +48,12 @@ Publicly available datasets were used for model training and testing:
 ## 🧠 Approach
 **Technique:** Deep Learning (Convolutional Neural Networks)
 
-- [cite_start]**Model Architecture:** Transfer Learning with **VGG16**[cite: 282].
+- **Model Architecture:** Transfer Learning with **VGG16**.
 - **Classification Strategy:** Two specialized models trained on the VGG16 base:
-    1. [cite_start]**Binary Model:** Determines if the item is Recyclable or Non-recyclable[cite: 450].
-    2. [cite_start]**Multi-class Model:** Identifies the specific material type (Glass, Metal, Organic, Paper, Plastic)[cite: 451].
+    1. **Binary Model:** Determines if the item is Recyclable or Non-recyclable.
+    2. **Multi-class Model:** Identifies the specific material type (Glass, Metal, Organic, Paper, Plastic).
 - **Why Deep Learning:** Automatically extracts image features (edges, textures) under varying lighting conditions.
-- [cite_start]**Deployment:** Web application hosted on **Streamlit Cloud** for real-time user interaction[cite: 27].
+- **Deployment:** Web application hosted on **Streamlit Cloud** for real-time user interaction.
 
 ---
 
